@@ -1,0 +1,161 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\thang\Desktop\bai1\Ban_lap_top\Quan_ly_ban_laptop.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\thang\Desktop\bai1\Ban_lap_top\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Go\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\thang\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\bin;;C:\Users\thang\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\thang\go\bin;C:\Hugo;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2\bin;;C:\Users\thang\AppData\Roaming\npm;C:\tools\dart-sdk\bin;C:\Users\thang\AppData\Roaming\Pub\Cache\bin;C:\Users\thang\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Go\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\thang\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\bin;;C:\Users\thang\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\thang\go\bin;C:\Hugo;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2\bin;;C:\Users\thang\AppData\Roaming\npm;C:\tools\dart-sdk\bin;C:\Users\thang\AppData\Roaming\Pub\Cache\bin;C:\Users\thang\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Azure Data Studio\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Go\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\DockerDesktop\version-bin\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\thang\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Azure Data Studio\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\bin\javaw.exe (not found)
+Check launcher:	C:\Users\thang\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\thang\go\bin\javaw.exe (not found)
+Check launcher:	C:\Hugo\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2\bin\javaw.exe (not found)
+Check launcher:	C:\Users\thang\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\tools\dart-sdk\bin\javaw.exe (not found)
+Check launcher:	C:\Users\thang\AppData\Roaming\Pub\Cache\bin\javaw.exe (not found)
+Check launcher:	C:\Users\thang\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_351
+Version string: 1.008.000_351 / 64-Bit (Ignore)
+Ignore:		1.008.000_351
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 32-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_351
+Version string: 1.008.000_351 / 32-Bit (Ignore)
+Ignore:		1.008.000_351
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.4
+Version string: 1.017.000_004 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17.0.4\bin\javaw.exe (OK)
+Match:		1.017.000_004
+Runtime used:	1.017.000_004 (64-bit)
+Main class:	com.mycompany.ungdungbanlaptop.application.Main
+Add classpath:	libs\hibernate-core-5.6.10.Final.jar
+Add classpath:	libs\jboss-logging-3.4.3.Final.jar
+Add classpath:	libs\javax.persistence-api-2.2.jar
+Add classpath:	libs\byte-buddy-1.12.9.jar
+Add classpath:	libs\antlr-2.7.7.jar
+Add classpath:	libs\jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+Add classpath:	libs\jandex-2.4.2.Final.jar
+Add classpath:	libs\classmate-1.5.1.jar
+Add classpath:	libs\javax.activation-api-1.2.0.jar
+Add classpath:	libs\hibernate-commons-annotations-5.1.2.Final.jar
+Add classpath:	libs\jaxb-api-2.3.1.jar
+Add classpath:	libs\jaxb-runtime-2.3.1.jar
+Add classpath:	libs\txw2-2.3.1.jar
+Add classpath:	libs\istack-commons-runtime-3.0.7.jar
+Add classpath:	libs\stax-ex-1.8.jar
+Add classpath:	libs\FastInfoset-1.2.15.jar
+Add classpath:	libs\mssql-jdbc-9.4.1.jre16.jar
+Add classpath:	libs\commons-lang3-3.7.jar
+Add classpath:	libs\jcalendar-1.4.jar
+Add classpath:	libs\mail-1.5.0-b01.jar
+Add classpath:	libs\activation-1.1.jar
+Add classpath:	libs\miglayout-swing-5.2.jar
+Add classpath:	libs\miglayout-core-5.2.jar
+Add classpath:	libs\timingframework-swing-4.1.0.jar
+Add classpath:	libs\timingframework-core-4.1.0.jar
+Add classpath:	libs\promises-4.0.1.jar
+Add classpath:	libs\timingframework-1.0.jar
+Add classpath:	libs\jetty-6.1.25.jar
+Add classpath:	libs\jetty-util-6.1.25.jar
+Add classpath:	libs\servlet-api-2.5-20081211.jar
+Add classpath:	libs\javase-3.5.1.jar
+Add classpath:	libs\jcommander-1.82.jar
+Add classpath:	libs\jai-imageio-core-1.4.0.jar
+Add classpath:	libs\qrgen-1.4.jar
+Add classpath:	libs\excel-streaming-reader-4.0.4.jar
+Add classpath:	libs\poi-5.2.3.jar
+Add classpath:	libs\commons-codec-1.15.jar
+Add classpath:	libs\commons-collections4-4.4.jar
+Add classpath:	libs\commons-math3-3.6.1.jar
+Add classpath:	libs\SparseBitSet-1.2.jar
+Add classpath:	libs\log4j-api-2.18.0.jar
+Add classpath:	libs\poi-ooxml-5.2.3.jar
+Add classpath:	libs\poi-ooxml-lite-5.2.3.jar
+Add classpath:	libs\xmlbeans-5.1.1.jar
+Add classpath:	libs\commons-compress-1.21.jar
+Add classpath:	libs\curvesapi-1.07.jar
+Add classpath:	libs\poi-shared-strings-2.5.5.jar
+Add classpath:	libs\h2-2.1.214.jar
+Add classpath:	libs\commons-text-1.10.0.jar
+Add classpath:	libs\commons-io-2.11.0.jar
+Add classpath:	libs\slf4j-api-1.7.5.jar
+Add classpath:	libs\slf4j-simple-1.6.4.jar
+Add classpath:	libs\commons-validator-1.6.jar
+Add classpath:	libs\commons-beanutils-1.9.2.jar
+Add classpath:	libs\commons-digester-1.8.1.jar
+Add classpath:	libs\commons-logging-1.2.jar
+Add classpath:	libs\commons-collections-3.2.2.jar
+Add classpath:	libs\core-3.3.1.jar
+Add classpath:	libs\webcam-capture-0.3.12.jar
+Add classpath:	libs\bridj-0.7.0.jar
+Add classpath:	libs\AbsoluteLayout-RELEASE150.jar
+Add classpath:	libs\hibernate-search-orm-5.8.2.Final.jar
+Add classpath:	libs\hibernate-search-engine-5.8.2.Final.jar
+Add classpath:	libs\lucene-core-5.5.5.jar
+Add classpath:	libs\lucene-misc-5.5.5.jar
+Add classpath:	libs\lucene-analyzers-common-5.5.5.jar
+Add classpath:	libs\lucene-facet-5.5.5.jar
+Add classpath:	libs\lucene-queries-5.5.5.jar
+Add classpath:	libs\lucene-queryparser-5.5.5.jar
+Add classpath:	libs\kernel-7.0.2.jar
+Add classpath:	libs\io-7.0.2.jar
+Add classpath:	libs\layout-7.0.2.jar
+Add classpath:	libs\forms-7.0.2.jar
+Add classpath:	libs\pdfa-7.0.2.jar
+Add classpath:	libs\sign-7.0.2.jar
+Add classpath:	libs\barcodes-7.0.2.jar
+Add classpath:	libs\font-asian-7.0.2.jar
+Add classpath:	libs\hyph-7.0.2.jar
+Add classpath:	libs\itextpdf-5.5.0.jar
+Add classpath:	libs\swingbits-1.2.2.jar
+Add classpath:	libs\miglayout-3.7.4.jar
+Add classpath:	libs\tablefilter-swing-5.5.4.jar
+Add classpath:	libs\jfreechart-1.0.13.jar
+Add classpath:	libs\jcommon-1.0.16.jar
+Launcher:	C:\Program Files\Java\jdk-17.0.4\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\thang\Desktop\bai1\Ban_lap_top\Quan_ly_ban_laptop.exe;libs\hibernate-core-5.6.10.Final.jar;libs\jboss-logging-3.4.3.Final.jar;libs\javax.persistence-api-2.2.jar;libs\byte-buddy-1.12.9.jar;libs\antlr-2.7.7.jar;libs\jboss-transaction-api_1.2_spec-1.1.1.Final.jar;libs\jandex-2.4.2.Final.jar;libs\classmate-1.5.1.jar;libs\javax.activation-api-1.2.0.jar;libs\hibernate-commons-annotations-5.1.2.Final.jar;libs\jaxb-api-2.3.1.jar;libs\jaxb-runtime-2.3.1.jar;libs\txw2-2.3.1.jar;libs\istack-commons-runtime-3.0.7.jar;libs\stax-ex-1.8.jar;libs\FastInfoset-1.2.15.jar;libs\mssql-jdbc-9.4.1.jre16.jar;libs\commons-lang3-3.7.jar;libs\jcalendar-1.4.jar;libs\mail-1.5.0-b01.jar;libs\activation-1.1.jar;libs\miglayout-swing-5.2.jar;libs\miglayout-core-5.2.jar;libs\timingframework-swing-4.1.0.jar;libs\timingframework-core-4.1.0.jar;libs\promises-4.0.1.jar;libs\timingframework-1.0.jar;libs\jetty-6.1.25.jar;libs\jetty-util-6.1.25.jar;libs\servlet-api-2.5-20081211.jar;libs\javase-3.5.1.jar;libs\jcommander-1.82.jar;libs\jai-imageio-core-1.4.0.jar;libs\qrgen-1.4.jar;libs\excel-streaming-reader-4.0.4.jar;libs\poi-5.2.3.jar;libs\commons-codec-1.15.jar;libs\commons-collections4-4.4.jar;libs\commons-math3-3.6.1.jar;libs\SparseBitSet-1.2.jar;libs\log4j-api-2.18.0.jar;libs\poi-ooxml-5.2.3.jar;libs\poi-ooxml-lite-5.2.3.jar;libs\xmlbeans-5.1.1.jar;libs\commons-compress-1.21.jar;libs\curvesapi-1.07.jar;libs\poi-shared-strings-2.5.5.jar;libs\h2-2.1.214.jar;libs\commons-text-1.10.0.jar;libs\commons-io-2.11.0.jar;libs\slf4j-api-1.7.5.jar;libs\slf4j-simple-1.6.4.jar;libs\commons-validator-1.6.jar;libs\commons-beanutils-1.9.2.jar;libs\commons-digester-1.8.1.jar;libs\commons-logging-1.2.jar;libs\commons-collections-3.2.2.jar;libs\core-3.3.1.jar;libs\webcam-capture-0.3.12.jar;libs\bridj-0.7.0.jar;libs\AbsoluteLayout-RELEASE150.jar;libs\hibernate-search-orm-5.8.2.Final.jar;libs\hibernate-search-engine-5.8.2.Final.jar;libs\lucene-core-5.5.5.jar;libs\lucene-misc-5.5.5.jar;libs\lucene-analyzers-common-5.5.5.jar;libs\lucene-facet-5.5.5.jar;libs\lucene-queries-5.5.5.jar;libs\lucene-queryparser-5.5.5.jar;libs\kernel-7.0.2.jar;libs\io-7.0.2.jar;libs\layout-7.0.2.jar;libs\forms-7.0.2.jar;libs\pdfa-7.0.2.jar;libs\sign-7.0.2.jar;libs\barcodes-7.0.2.jar;libs\font-asian-7.0.2.jar;libs\hyph-7.0.2.jar;libs\itextpdf-5.5.0.jar;libs\swingbits-1.2.2.jar;libs\miglayout-3.7.4.jar;libs\tablefilter-swing-5.5.4.jar;libs\jfreechart-1.0.13.jar;libs\jcommon-1.0.16.jar" com.mycompany.ungdungbanlaptop.application.Main
+Args length:	2510/32768 chars
+Exit code:	0
